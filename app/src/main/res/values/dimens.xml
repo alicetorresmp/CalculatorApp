@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_sixteen">16dp</dimen>
+    <dimen name="padding_eight">8dp</dimen>
+    <dimen name="margin_eight">8dp</dimen>
+    <dimen name="test_ten">10dp</dimen>
+    <dimen name="test_hundred">100dp</dimen>
+    <dimen name="circle_seventy_five">37.5dp</dimen>
+</resources>
